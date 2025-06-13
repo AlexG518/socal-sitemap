@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.socalpowerlifting.net/in-person-coaching</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.socalpowerlifting.net/get-online-coaching</loc>
+    <priority>0.95</priority>
+  </url>
+
+  <url>
+    <loc>https://www.socalpowerlifting.net/about-us</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.socalpowerlifting.net/our-team</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.socalpowerlifting.net/blog</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://shop.socalpowerlifting.net/</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
